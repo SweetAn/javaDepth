@@ -21,5 +21,9 @@ public class AnnotationDemo {
             e.printStackTrace();
         }
 
+
+        String  s="ssss";
+        String ddd="1";
+
     }
 }
